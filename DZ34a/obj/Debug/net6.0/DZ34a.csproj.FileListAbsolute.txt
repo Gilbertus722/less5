@@ -1,0 +1,15 @@
+E:\Учеба\Програм\Sem5\less5\DZ34a\bin\Debug\net6.0\DZ34a.exe
+E:\Учеба\Програм\Sem5\less5\DZ34a\bin\Debug\net6.0\DZ34a.deps.json
+E:\Учеба\Програм\Sem5\less5\DZ34a\bin\Debug\net6.0\DZ34a.runtimeconfig.json
+E:\Учеба\Програм\Sem5\less5\DZ34a\bin\Debug\net6.0\DZ34a.dll
+E:\Учеба\Програм\Sem5\less5\DZ34a\bin\Debug\net6.0\DZ34a.pdb
+E:\Учеба\Програм\Sem5\less5\DZ34a\obj\Debug\net6.0\DZ34a.csproj.AssemblyReference.cache
+E:\Учеба\Програм\Sem5\less5\DZ34a\obj\Debug\net6.0\DZ34a.GeneratedMSBuildEditorConfig.editorconfig
+E:\Учеба\Програм\Sem5\less5\DZ34a\obj\Debug\net6.0\DZ34a.AssemblyInfoInputs.cache
+E:\Учеба\Програм\Sem5\less5\DZ34a\obj\Debug\net6.0\DZ34a.AssemblyInfo.cs
+E:\Учеба\Програм\Sem5\less5\DZ34a\obj\Debug\net6.0\DZ34a.csproj.CoreCompileInputs.cache
+E:\Учеба\Програм\Sem5\less5\DZ34a\obj\Debug\net6.0\DZ34a.dll
+E:\Учеба\Програм\Sem5\less5\DZ34a\obj\Debug\net6.0\refint\DZ34a.dll
+E:\Учеба\Програм\Sem5\less5\DZ34a\obj\Debug\net6.0\DZ34a.pdb
+E:\Учеба\Програм\Sem5\less5\DZ34a\obj\Debug\net6.0\DZ34a.genruntimeconfig.cache
+E:\Учеба\Програм\Sem5\less5\DZ34a\obj\Debug\net6.0\ref\DZ34a.dll
