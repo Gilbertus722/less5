@@ -1,0 +1,15 @@
+E:\Учеба\Програм\Sem5\less5\DZ34a\DZ36\bin\Debug\net6.0\DZ36.exe
+E:\Учеба\Програм\Sem5\less5\DZ34a\DZ36\bin\Debug\net6.0\DZ36.deps.json
+E:\Учеба\Програм\Sem5\less5\DZ34a\DZ36\bin\Debug\net6.0\DZ36.runtimeconfig.json
+E:\Учеба\Програм\Sem5\less5\DZ34a\DZ36\bin\Debug\net6.0\DZ36.dll
+E:\Учеба\Програм\Sem5\less5\DZ34a\DZ36\bin\Debug\net6.0\DZ36.pdb
+E:\Учеба\Програм\Sem5\less5\DZ34a\DZ36\obj\Debug\net6.0\DZ36.csproj.AssemblyReference.cache
+E:\Учеба\Програм\Sem5\less5\DZ34a\DZ36\obj\Debug\net6.0\DZ36.GeneratedMSBuildEditorConfig.editorconfig
+E:\Учеба\Програм\Sem5\less5\DZ34a\DZ36\obj\Debug\net6.0\DZ36.AssemblyInfoInputs.cache
+E:\Учеба\Програм\Sem5\less5\DZ34a\DZ36\obj\Debug\net6.0\DZ36.AssemblyInfo.cs
+E:\Учеба\Програм\Sem5\less5\DZ34a\DZ36\obj\Debug\net6.0\DZ36.csproj.CoreCompileInputs.cache
+E:\Учеба\Програм\Sem5\less5\DZ34a\DZ36\obj\Debug\net6.0\DZ36.dll
+E:\Учеба\Програм\Sem5\less5\DZ34a\DZ36\obj\Debug\net6.0\refint\DZ36.dll
+E:\Учеба\Програм\Sem5\less5\DZ34a\DZ36\obj\Debug\net6.0\DZ36.pdb
+E:\Учеба\Програм\Sem5\less5\DZ34a\DZ36\obj\Debug\net6.0\DZ36.genruntimeconfig.cache
+E:\Учеба\Програм\Sem5\less5\DZ34a\DZ36\obj\Debug\net6.0\ref\DZ36.dll
